@@ -10,5 +10,6 @@ The Tkinter module (“Tk interface”) is the standard Python interface to the 
 # LG Logo
 ![image](https://user-images.githubusercontent.com/64529469/106502235-1f964a00-64ea-11eb-9fe3-8107808ae596.png)
 # Logo modified
+![image](https://user-images.githubusercontent.com/64529469/106502972-19549d80-64eb-11eb-81bd-413c59aee491.png)
 
 
